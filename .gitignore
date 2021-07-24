@@ -1,0 +1,26 @@
+# Project Ignores Files 
+
+# Maven
+.mvn
+*.classpath
+*.project
+*.settings
+/bin/*
+/target/*
+
+
+# Compiled class file
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+# JetBrains IDEs
+.idea/
+*.iml
