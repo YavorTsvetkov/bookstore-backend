@@ -1,0 +1,14 @@
+com/yavor/bookstore/web/rest/controllers/util/IsbnGenerator.class
+com/yavor/bookstore/web/rest/serializers/JsonDateDeserializer.class
+com/yavor/bookstore/repositories/BookEntityAssembler.class
+com/yavor/bookstore/web/rest/serializers/JsonDateSerializer.class
+com/yavor/bookstore/HelloApplication.class
+com/yavor/bookstore/web/rest/controllers/util/NumberGenerator.class
+com/yavor/bookstore/web/rest/resources/Language.class
+com/yavor/bookstore/repositories/entities/BookEntity.class
+com/yavor/bookstore/HelloResource.class
+com/yavor/bookstore/web/rest/resources/BookResource.class
+com/yavor/bookstore/repositories/BookRepositoryImpl.class
+com/yavor/bookstore/repositories/DataBaseException.class
+com/yavor/bookstore/web/rest/controllers/BookController.class
+com/yavor/bookstore/web/rest/controllers/BookRepository.class

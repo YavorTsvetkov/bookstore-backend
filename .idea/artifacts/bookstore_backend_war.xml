@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bookstore-backend:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>bookstore-backend</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="bookstore-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="bookstore-backend:war exploded" />
+    </root>
+  </artifact>
+</component>
